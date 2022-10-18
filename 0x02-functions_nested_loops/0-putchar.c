@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*main - beginning point of the putchar
+*main - act as the beginning point of the putchar
 *Return: always zero
 */
 int main(void)
